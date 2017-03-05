@@ -84,7 +84,7 @@ Create an entity relationship diagram. Do not move on until you have.
 
 * The website will consist of the following pages:
 
-* Home page:
+* Home page: https://wireframe.cc/e5Fays
 
  * A list of all blog posts sorted by creation time and a 3 sentence excerpt from each.
 
@@ -92,7 +92,7 @@ Create an entity relationship diagram. Do not move on until you have.
 
  * A link to create a new blog post
 
-* Blog page:
+* Blog page: https://wireframe.cc/4BOBrh
 
  * Display a single blog post. Should show Title, Author, Body and creation time.
 
@@ -108,13 +108,13 @@ Create an entity relationship diagram. Do not move on until you have.
 
  * Next to each comment, display a link to edit the comment.
 
-* Create Blog Page:
+* Create Blog Page: https://wireframe.cc/Hebi4Q
 
  * Display a form with input boxes for Title, Author, Body
 
  * A button to submit the creation of the blog post
 
-* Edit Blog Page:
+* Edit Blog Page: https://wireframe.cc/9Sgvbz
 
   * Display a form with input boxes for Title, Author, Body
 
